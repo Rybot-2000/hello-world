@@ -1,6 +1,5 @@
 # hello-world
 My first repository! 
-Hello, my name is Ryan_bobillo or Rybot. Im currently a coding student at a ruby based coding bootcamp in Boston called Launch Academy.
-Im new to the coding community and someday hope to work and contribute to mobile/console gaming communities, IoT community.
-I also hope to become efficient enought so start my own freelance coding/graphics webdesign business.
-In my spare time I like to game, write music and poetry, play board games, enjoy and beer or cocktail and spend time with friends and family. 
+Hello, my name is Ryan_Bobillo or Rybot_2000. Im currently working for a large manufacturing company in a non-tech role. 
+Im new to coding and the community and looking forward the working on my own projects. 
+I have a goal to work in indie games and work to become an all around versitile developer.
